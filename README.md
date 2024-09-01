@@ -58,6 +58,10 @@ Guides Flow: Proper headings create a logical progression through the document.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
 
+Be Descriptive: Headings should clearly reflect the section's content.
+Keep it Concise: Use short, punchy headings.
+Maintain Consistency: Use a consistent style and hierarchy throughout the document.
+Use Parallel Structure: Keep the grammatical structure of headings similar for better readability.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
