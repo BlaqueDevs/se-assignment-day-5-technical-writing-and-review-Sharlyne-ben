@@ -13,7 +13,14 @@ Layer Information: Start with basics and build up to more complex ideas for mixe
 Examples and Analogies: Use relevant examples that resonate with the audience's experience.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+
+ Conducting Pre-surveys or Questionnaires to Gather information about your audience’s familiarity with the topic.
+Starting with questions to see what they already know.
+Using real-time feedback (e.g., nods, questions) to adjust your presentation on the fly.
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
