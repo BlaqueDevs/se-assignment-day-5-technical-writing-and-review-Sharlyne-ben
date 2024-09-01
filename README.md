@@ -20,8 +20,14 @@ Using real-time feedback (e.g., nods, questions) to adjust your presentation on 
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
+Avoiding Jargon by Use of simple, clear language.
+Explaining Terms: When jargon is necessary, define it in plain terms.
+Using Analogies: Relating complex concepts to everyday experiences.
+Use of Visual Aids: Incorporate diagrams or illustrations to clarify concepts.
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
